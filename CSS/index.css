@@ -1,0 +1,22 @@
+img{
+    width: 400px;
+    height: 300px;
+    display: inline;
+}
+
+
+.font{
+    font-size: 20px;
+}
+
+.inline{
+    display: inline;
+}
+
+li{
+    font-size: 20px;
+}
+
+h3{
+    font-size: 20px;
+}
